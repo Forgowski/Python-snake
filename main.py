@@ -40,7 +40,7 @@ while(game_is_on):
 
         game_is_on = False
         score.game_over()
-        print("border")
+        
 
     #tail colision
     for segment in snake.snake[1:]:
